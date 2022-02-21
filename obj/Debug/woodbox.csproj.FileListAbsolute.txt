@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\bin\Debug\plug9.dll
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\bin\Debug\plug9.pdb
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Debug\Command.FormWoodMaterial.resources
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Debug\woodbox.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Debug\woodbox.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Debug\plug9.dll
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Debug\plug9.pdb
+C:\Users\Alex\Desktop\сохранить код\woodbox\bin\Debug\plug9.dll
+C:\Users\Alex\Desktop\сохранить код\woodbox\bin\Debug\plug9.pdb
+C:\Users\Alex\Desktop\сохранить код\woodbox\obj\Debug\woodbox.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\сохранить код\woodbox\obj\Debug\Command.FormWoodMaterial.resources
+C:\Users\Alex\Desktop\сохранить код\woodbox\obj\Debug\woodbox.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\сохранить код\woodbox\obj\Debug\woodbox.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\сохранить код\woodbox\obj\Debug\plug9.dll
+C:\Users\Alex\Desktop\сохранить код\woodbox\obj\Debug\plug9.pdb

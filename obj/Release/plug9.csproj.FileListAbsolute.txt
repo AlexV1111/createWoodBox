@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\bin\Release\plug9.dll
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\bin\Release\plug9.pdb
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Release\plug9.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Release\Command.FormWoodMaterial.resources
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Release\plug9.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Release\plug9.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Release\plug9.dll
+C:\Users\Alex\Desktop\C#\проекты\автокад\макросы\plug9\obj\Release\plug9.pdb
